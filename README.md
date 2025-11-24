@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @ErenSahbaz1
-- 👀 I’m interested in Front-end, back-end and ios
-- 🌱 I’m currently learning Reactjs, php, kotlin and swift
+- Yooo I am Eren and im kind of a Front-End Developer which is very fun to work with. I'm currently learning Next.JS but I want to go deeper and learn new languages like python (which is my next step). 
 - 📫 How to reach me nendari01@gmail.com or eren.Sahbaz@student.ehb.be
-- ⚡ Fun fact: i don't like writing papers
 
 
 # 💻 Tech Stack:
